@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                         setTimeout(function() {
                                             document.getElementById('countdown').innerText = '1';
                                             setTimeout(function() {
-                                                document.getElementById('message').innerText = 'Happy Independence Day';
+                                                document.getElementById('message').innerText = 'Happy Independence day';
                                             }, 1000);
                                         }, 1000);
                                     }, 1000);
